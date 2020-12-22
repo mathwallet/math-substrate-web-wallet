@@ -1,5 +1,5 @@
 export default {
-  'edgeware': ['wss://mainnet1.edgewa.re/'],
+  'edgeware': ['wss://mainnet4.edgewa.re/'],
   'kusama': ['wss://kusama-rpc.polkadot.io',],
   'polkadot': ['wss://rpc.polkadot.io'],
   'plasm': ['wss://rpc.plasmnet.io/',],
