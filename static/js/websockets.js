@@ -8,6 +8,6 @@ export default {
   'centrifuge': ['wss://fullnode.centrifuge.io'],
   'subsocial': ['wss://rpc.subsocial.network'],
   'crab': ['wss://crab.darwinia.network'],
-  'chainx': ['wss://testnet-1.chainx.org/ws'],
+  'chainx': ['wss://mainnet.chainx.org/ws'],
   'substrate': ['ws://127.0.0.1:9944']
 }
